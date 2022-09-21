@@ -1,10 +1,9 @@
-*config.js
-/Mapping_Multiple_Points/Static/js/config.js
-
+config.js
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
 
 # C extensions
 *.so
